@@ -4,9 +4,6 @@
   border: 2px solid #fff;
   width: 165px;
 }
-.todoListMain {
-  align-items: center;
-}
 .todoListMain .header h1 {
   padding-left: 30px;
 }
